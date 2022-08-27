@@ -43,14 +43,16 @@ graph theory in order to bring a solution to this task.
    
    #### HMI display :
    <p align="center">
-	<img src="https://imgur.com/VacoAfL.png" width="600">
+	<img src="https://imgur.com/VacoAfL.png" width="800">
    </p>
    
 ##  User guide
 * Interactions with the console
 
 Select an option by writing the corresponding number
+
 Press enter to confirm
+
 Press ESC to exit HMI display
 
 * Interactions with the mouse
