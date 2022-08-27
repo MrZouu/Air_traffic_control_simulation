@@ -41,7 +41,7 @@ graph theory in order to bring a solution to this task.
    * **Trajet avec IHM** - All connections between airports with Allegro
    * **Quitter** - Leave
    
-   ##### HMI display
+   #### HMI display
    <p>
 	<img src="https://imgur.com/VacoAfL.png" width="600">
    </p>
