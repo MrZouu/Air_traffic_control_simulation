@@ -43,7 +43,7 @@ graph theory in order to bring a solution to this task.
    
    ##### HMI display
    <p>
-	<img src="https://imgur.com/VacoAfL.png" width="400">
+	<img src="https://imgur.com/VacoAfL.png" width="600">
    </p>
    
 ##  User guide
