@@ -4,6 +4,8 @@ A program simulating a Air traffic control in 2D.
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-0052cf)
 ![Language](https://img.shields.io/badge/Allegro-02A9FF?style=logo=Allegro&logoColor=white)
 
+***Project date : 2022***
+
 ##  Description
 This simulator allows you to follow the flights and ground stations of a number of aircraft and to 
 to confront the problems of air traffic control. It will put into practice some algorithms of 
