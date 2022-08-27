@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1649545210 source:c:\users\lor3n\desktop\air traffic control simulation\arrete.cpp
+	<iostream>
+	<iomanip>
+	"Arrete.h"
+
+1649545210 c:\users\lor3n\desktop\air traffic control simulation\arrete.h
+	"Sommet.h"
+
+1649522126 c:\users\lor3n\desktop\air traffic control simulation\sommet.h
+	<vector>
+	<string>
+	<queue>
+
+1649543810 source:c:\users\lor3n\desktop\air traffic control simulation\avion.cpp
+	<iostream>
+	<iomanip>
+	"Avion.h"
+
+1649599116 c:\users\lor3n\desktop\air traffic control simulation\avion.h
+
+1649625790 source:c:\users\lor3n\desktop\air traffic control simulation\borneinteractive.cpp
+	<fstream>
+	<iostream>
+	"BorneInteractive.h"
+	"Simulation.h"
+	<cstdlib>
+	"IHM.h"
+	<limits>
+
+1649368842 c:\users\lor3n\desktop\air traffic control simulation\borneinteractive.h
+	<string>
+	"Monde.h"
+
+1649624400 c:\users\lor3n\desktop\air traffic control simulation\monde.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Sommet.h"
+	"Arrete.h"
+	"Avion.h"
+
+1649504844 c:\users\lor3n\desktop\air traffic control simulation\simulation.h
+	"Monde.h"
+	<random>
+	<time.h>
+
+1649522126 c:\users\lor3n\desktop\air traffic control simulation\ihm.h
+	<allegro.h>
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+	<limits>
+	<queue>
+
+1649621890 source:c:\users\lor3n\desktop\air traffic control simulation\ihm.cpp
+	"IHM.h"
+
+1649543810 source:c:\users\lor3n\desktop\air traffic control simulation\main.cpp
+	<iostream>
+	"BorneInteractive.h"
+
+1649625844 source:c:\users\lor3n\desktop\air traffic control simulation\monde.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<utility>
+	<queue>
+	<map>
+	"monde.h"
+	"Arrete.h"
+
+1649545224 source:c:\users\lor3n\desktop\air traffic control simulation\simulation.cpp
+	"Simulation.h"
+	<cstdlib>
+	<string>
+	<iostream>
+	<fstream>
+
+1649426848 source:c:\users\lor3n\desktop\air traffic control simulation\sommet.cpp
+	<iostream>
+	<iomanip>
+	"Sommet.h"
+
