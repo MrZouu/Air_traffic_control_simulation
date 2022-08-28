@@ -24,6 +24,9 @@ graph theory in order to bring a solution to this task.
 * With **[allegro_4_4_3_install.zip](https://github.com/MrZouu/Saboteur/blob/main/allegro_4_4_3_install.zip)**
   * Extract the .zip file to -> **\Program Files\CodeBlocks\MinGW**
   * Press "Ok"
+
+I had Allegro malfunctions while having the OpenCV library installed on a device
+
 * In **Codeblocks**
   * Compiler -> Linker settings -> Add
   * Click on the file icon
