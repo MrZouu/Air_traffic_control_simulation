@@ -19,9 +19,9 @@ graph theory in order to bring a solution to this task.
 * A compiler :
     * **[CodeBlocks](http://www.codeblocks.org/downloads/binaries/)** *(MinGW setup)*
 * Allegro:
-    * **[Allegro](https://github.com/MrZouu/Saboteur/blob/main/allegro_4_4_3_install.zip)**
+    * **[Allegro](https://github.com/MrZouu/Air_traffic_control_simulation/blob/main/allegro_4_4_3_install.zip)**
 ### Add Allegro
-* With **[allegro_4_4_3_install.zip](https://github.com/MrZouu/Saboteur/blob/main/allegro_4_4_3_install.zip)**
+* With **[allegro_4_4_3_install.zip](https://github.com/MrZouu/Air_traffic_control_simulation/blob/main/allegro_4_4_3_install.zip)**
   * Extract the .zip file to -> **\Program Files\CodeBlocks\MinGW**
   * Press "Ok"
 
