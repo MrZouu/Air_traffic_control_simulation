@@ -7,9 +7,9 @@ A program simulating a Air traffic control in 2D.
 ***Project date : 2022***
 
 ##  Description
-This simulator allows you to follow the flights and ground stations of a number of aircraft and to 
-to confront the problems of air traffic control. It will put into practice some algorithms of 
-graph theory in order to bring a solution to this task.
+This simulator lets you follow the flights and airports of a number of aircraft, and confront the problems of air traffic control. 
+
+It applies a range of graph theory algorithms to provide a solution to this task. 
 
 <p align="center">
 	<img src="images/air_traffic.jpg" width="600">
